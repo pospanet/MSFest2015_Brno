@@ -1,0 +1,9 @@
+Configuring breakpoint (CTRL+Z)
+Lambda Debuging
+async void
+Exception settings
+Debuger PerfTips (time) {&Memory (GC, memory leakes), CPU}
+IntelliTrace (setting) PDB in-prod (just debug)
+Diagnostic Tools Window
+
+https://msdn.microsoft.com/en-us/library/hh398365.aspx
