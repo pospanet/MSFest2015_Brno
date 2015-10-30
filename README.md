@@ -1,22 +1,23 @@
-# MSFest2015_Brno
+ï»¿# MSFest2015_Brno
 
 ## Windows 10 IoT Core
-Na poøednášce jsem zmínil nìkolik kouskù HW, se kterımi pracuji. Pøikládám seznam:
+Na poÅ™ednÃ¡Å¡ce jsem zmÃ­nil nÄ›kolik kouskÅ¯ HW, se kterÃ½mi pracuji. PÅ™iklÃ¡dÃ¡m seznam:
 ### ESP8266
 * [ESP8266](https://github.com/esp8266/esp8266-wiki/wiki)
 * [ESP8266 varianty](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family)
-* [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) - alternativní FW pro ESP8266 s podporou jazyka [LUA](http://www.lua.org/)
+* [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) - alternativnÃ­ FW pro ESP8266 s podporou jazyka [LUA](http://www.lua.org/)
 * [ESPlorer](http://esp8266.ru/esplorer/#download) - IDE pro ESP8266
 ### Raspberry Pi 2
 * [Rpi2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
-* Windows 10 IoT core [image](http://ms-iot.github.io/content/en-US/Downloads.htm) pro RPi2 vèetnì [release notes](http://ms-iot.github.io/content/en-US/win10/ReleaseNotes.htm)
+* Windows 10 IoT core [image](http://ms-iot.github.io/content/en-US/Downloads.htm) pro RPi2 vÄetnÄ› [release notes](http://ms-iot.github.io/content/en-US/win10/ReleaseNotes.htm)
 * [Wi-Fi dongle](https://ms-iot.github.io/content/en-US/win10/SetupWiFi.htm) pro RPi2
 
-## Debugujte ve Visual Studiu jako profík
+## Debugujte ve Visual Studiu jako profÃ­k
 
 [IntelliTrace stand-alone collector](https://msdn.microsoft.com/en-us/library/hh398365.aspx)
 
 ## Kontainery ve Windows
-Video se záznamem pouití bude doplnìno pozdìji
+
+Video se zÃ¡znamem pouÅ¾itÃ­ bude doplnÄ›no pozdÄ›ji
 ---
-V pøípadì dotazù k materiálùm prosím formou zaloení issue (aby bylo viditelné i pro ostatní). Dìkuji
+V pÅ™Ã­padÄ› dotazÅ¯ k materiÃ¡lÅ¯m prosÃ­m formou zaloÅ¾enÃ­ issue (aby bylo viditelnÃ© i pro ostatnÃ­). DÄ›kuji
